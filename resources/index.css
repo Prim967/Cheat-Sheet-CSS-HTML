@@ -1,0 +1,40 @@
+*{
+    font-family: "Madimi One", sans-serif;
+}
+body{
+    background-color: rgb(201, 200, 200);
+}
+header{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    margin: 30px;
+    margin: 10px;
+}
+table { 
+    width: 800px;
+    margin: 0 auto;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+thead {
+  background-color: rgb(185, 110, 247);
+  font-weight: bold;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+th, td{
+    width: 400px;
+    height: 50px;
+}
+
+h2{
+    text-align: center;
+    margin: 15px auto;
+}
+
